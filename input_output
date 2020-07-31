@@ -2,18 +2,19 @@ Input : Number of students=20
 
 Output : 
 In generation 0  Distributions	1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
-In generation 1  Distributions 1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
-In generation 2  Distributions 1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
+In generation 1  Distributions  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
+In generation 2  Distributions  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
 In generation 3  Distributions	1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
 In generation 4  Distributions	1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
 In generation 5  Distributions	1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
 In generation 6  Distributions	1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
 In generation 7  Distributions	1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
 In generation 8  Distributions	1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
-In generation 9  Distributions 1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
+In generation 9  Distributions  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
 In generation 10 Distributions	1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
-In generation 11 Distributions 1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
-In generation 12 Distributions 1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
-In generation 13 Distributions 1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
-In generation 14 Distributions 1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
-In generation 15 Distributions 	1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
+In generation 11 Distributions  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
+In generation 12 Distributions  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
+In generation 13 Distributions  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
+In generation 14 Distributions  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
+In generation 15 Distributions  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  3  1  2  
+  
