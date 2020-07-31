@@ -1,4 +1,4 @@
-# Assignment 3: For a given set of students distribute/divide them into 3 groups such that diversity of students in each group get minimal.
+# Assignment 3: For a given set of students distribute/divide them into 3 groups such that diversity of students in each group gets minimal.
 
 ## Implementation:
 
